@@ -6,12 +6,12 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Pistorm32-Emu68 Wiki",
-  tagline: "A Wiki for using Pistorm32 and Emu68",
+  title: "Pistorm Wiki",
+  tagline: "A Wiki for using Pistorm",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://pistorm32-emu68.netlify.app",
+  url: "https://pistorm-wiki.netlify.app",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -19,7 +19,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "mggk-fr", // Usually your GitHub org/user name.
-  projectName: "pistorm32-emu68-wiki", // Usually your repo name.
+  projectName: "pistorm-wiki", // Usually your repo name.
 
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -53,7 +53,7 @@ const config = {
       // Replace with your project's social card
       image: "img/docusaurus-social-card.jpg",
       navbar: {
-        title: "Pistorm32-Emu68 Wiki",
+        title: "Pistorm Wiki",
         logo: {
           alt: "Logo",
           src: "img/logo.png",

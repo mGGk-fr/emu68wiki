@@ -1,0 +1,8 @@
+{
+  "label": "Emulators",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Tips and tricks on using PiStorm with Emu68."
+  }
+}

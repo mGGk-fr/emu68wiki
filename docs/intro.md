@@ -4,4 +4,6 @@ sidebar_position: 1
 
 # Introduction
 
-This wiki is about using Pistorm32-Lite with Emu68
+PiStorm is an Amiga Accelerator project created by [Claud Schwarz](https://twitter.com/Claude1079)
+
+The main goal is to create Amiga Accelerator cards using Raspberry Pi to emulate m68k processor
